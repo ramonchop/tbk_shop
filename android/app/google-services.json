@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5519079346",
+    "firebase_url": "https://webpay-on-app.firebaseio.com",
+    "project_id": "webpay-on-app",
+    "storage_bucket": "webpay-on-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5519079346:android:8217f7d75367394e2f16ab",
+        "android_client_info": {
+          "package_name": "cl.transbank.webpayonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5519079346-6ue1rvq57vliqsqq9di3h023lbc4hp32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAim-xyH6mAsCAgUiJFC5WCxPTL3E4iGgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5519079346-6ue1rvq57vliqsqq9di3h023lbc4hp32.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5519079346-m7atfcgftb6l00se3d0vujc7p70lthai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.transbank.webpayonapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
